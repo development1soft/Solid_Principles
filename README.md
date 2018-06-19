@@ -2,6 +2,6 @@
 # EXAMPLE OF SRP[SINGLE RESPONSABILITY PRINCIBLE]
 # SINGLE RESPONSABILITY PRINCIBLE
 # Web Development
-# Facebook : https://www,facebook.com/development1soft
+# Facebook : https://www.facebook.com/development1soft
 # Github : https://github.com/development1soft
-# Youtube : https://www,youtube.com/c/WebDevelopmentTeam
+# Youtube : https://www.youtube.com/c/WebDevelopmentTeam
